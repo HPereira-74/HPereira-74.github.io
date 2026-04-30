@@ -1,0 +1,5 @@
+# Ignore downloaded ISO files and virtual machine disks
+Lab_ISOs/
+*.iso
+*.vmdk
+*.vmx
