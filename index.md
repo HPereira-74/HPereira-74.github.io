@@ -17,8 +17,8 @@ My lab is currently built around open-source security monitoring to establish a 
 ## Project Directory
 
 ### Phase 1: Foundation & Open-Source Security (Wazuh)
-*	[Project 1: Architecting the Lab & Deploying Wazuh](project-1-wazuh-setup.md)
-*   *Coming Soon: Sysmon Integration and Endpoint Visibility*
+*	[Project 1: Architecting the Lab & Deploying Wazuh](project-01-wazuh-setup.md)
+*   [Project 2: Sysmon Integration and Endpoint Visibility](project-02-endpoint-visibility.md)
 *   *Coming Soon: Simulating & Detecting Brute Force Attacks*
 
 ### Phase 2: Enterprise Security (Splunk Roadmap)
