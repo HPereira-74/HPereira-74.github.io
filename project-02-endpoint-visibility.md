@@ -47,4 +47,4 @@ To bridge the tools, I modified the Wazuh agent's `ossec.conf` file to explicitl
 
 *Successful integration: The neutralized Windows endpoint securely shipping Sysmon telemetry to the SIEM.*
 
-![Wazuh Agent Active](/assets/images/[active_agent.png])
+![Wazuh Agent Active](/assets/images/active_agent.png)
